@@ -42,7 +42,7 @@
                 "label": "Facebook",
                 "url": "https://www.facebook.com/Crispin-Un-Emigrante-104050991600005/",
                 "style": "link",
-                "new_window": false
+                "new_window": true
             },
             {
                 "label": "GitHub",
