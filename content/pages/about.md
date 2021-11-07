@@ -13,10 +13,6 @@ sections:
     title: Nuestro equipo
     team:
       - content/data/team/esteban-estevez.yaml
-      - content/data/team/dianne-ameter.yaml
-      - content/data/team/eleanor-carr.yaml
-      - content/data/team/hanson-deck.yaml
-      - content/data/team/gordon-norman.yaml
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
