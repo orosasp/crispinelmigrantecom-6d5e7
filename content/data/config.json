@@ -23,7 +23,7 @@
             {
                 "label": "Contáctanos",
                 "url": "/contact",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "Acerca de",
