@@ -16,7 +16,7 @@ sections:
       - content/data/team/dianne-ameter.yaml
       - content/data/team/hanson-deck.yaml
   - type: cta_section
-    title: Join the Team
+    title: Únete al equipo
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
       - label: Contact Us
