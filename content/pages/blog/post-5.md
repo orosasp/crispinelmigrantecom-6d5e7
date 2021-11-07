@@ -6,7 +6,7 @@ categories:
   - content/data/categories/tutorials.yaml
 tags:
   - crispinelmigrante
-  - Netlify
+  - crispinelmigranteennewyork
 image: images/5.png
 image_alt: Post 5 placeholder image
 excerpt: >-
