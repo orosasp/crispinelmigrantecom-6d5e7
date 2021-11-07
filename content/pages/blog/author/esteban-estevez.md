@@ -6,7 +6,7 @@ sections:
     align: center
   - type: blog_feed_section
     show_recent: false
-    author: content/data/team/miles-tone.yaml
+    author: content/data/team/esteban-estevez.yaml
 seo:
   title: Posts by Miles Tone
   description: This is the author archive page
