@@ -2,7 +2,7 @@
 title: Esteban Estevez Rosas
 sections:
   - type: hero_section
-    title: All Posts By Esteban Tone
+    title: All Posts By Esteban Estevez
     align: center
   - type: blog_feed_section
     show_recent: false
