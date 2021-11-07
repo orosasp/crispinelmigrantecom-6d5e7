@@ -4,7 +4,7 @@ date: '2021-10-12'
 author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/general.yaml
-  
+  - content/data/categories/news.yaml
 tags:
   - crispinelmigrante
   - crispinelmigranteennewyork
