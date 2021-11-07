@@ -1,6 +1,6 @@
 ---
 title: Crispín el Inmigrante visita a la Guardia Comunitaria del Bronx
-date: '2020-04-02'
+date: '2020-08-02'
 author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/tutorials.yaml
