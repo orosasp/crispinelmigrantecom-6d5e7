@@ -16,7 +16,7 @@ sections:
         style: secondary
     align: left
     image: /images/logo.jpeg
-    image_alt: Logo Cristpin el migrante
+    image_alt: Logo Crispin el migrante
     image_position: right
     has_background: true
     background:
