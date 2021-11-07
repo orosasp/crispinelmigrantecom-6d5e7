@@ -28,7 +28,7 @@ sections:
   - type: blog_feed_section
     title: Qué hay de nuevo
     show_recent: true
-    recent_count: 3
+    recent_count: 4
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
