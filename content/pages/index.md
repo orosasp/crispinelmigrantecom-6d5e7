@@ -8,9 +8,6 @@ sections:
       New York se encuentran trabajando nuestros compañeros migrantes mexicanos
       o latinoamericanos.
     actions:
-      - label: Conocer más
-        url: /features
-        style: primary
       - label: Contactanos
         url: /contact
         style: secondary
