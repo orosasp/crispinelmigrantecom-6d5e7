@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Crispín el migrante
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Este sitio web se creo con el objetico de dar a conocer en que rincones de
+      New York se encuentran trabajando nuestros compañeros migrantes mexicanos
+      o latinoamericanos.
     actions:
       - label: Learn More
         url: /features
