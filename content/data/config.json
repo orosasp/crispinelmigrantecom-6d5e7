@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Starter Theme",
+    "title": "Crispin el migrante",
     "path_prefix": "/",
     "header": {
         "title": "Starter",
@@ -16,7 +16,7 @@
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "Acerca de",
                 "url": "/about",
                 "style": "link"
             },
@@ -26,7 +26,7 @@
                 "style": "link"
             },
             {
-                "label": "Contact Us",
+                "label": "Contactactanos",
                 "url": "/contact",
                 "style": "primary"
             }
