@@ -2,15 +2,16 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: Crispín el migrante
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Este sitio web se creo con el objetico de dar a conocer en que rincones de
+      New York se encuentran trabajando nuestros compañeros migrantes mexicanos
+      o latinoamericanos.
     actions:
-      - label: Learn More
+      - label: Conocer más
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Contactanos
         url: /contact
         style: secondary
     align: left
