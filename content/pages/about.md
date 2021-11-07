@@ -9,13 +9,6 @@ sections:
       Este sitio web se creo con el objetico de dar a conocer en que rincones de
       New York se encuentran trabajando nuestros compañeros migrantes mexicanos
       o latinoamericanos.
-
-
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
   - type: team_section
     title: Our Team
     team:
