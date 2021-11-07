@@ -2,14 +2,9 @@
     "title": "Crispin el migrante",
     "path_prefix": "/",
     "header": {
-        "title": "Starter",
+        "title": "Crispín el migrante",
         "has_nav": true,
         "nav_links": [
-            {
-                "label": "Features",
-                "url": "/features",
-                "style": "link"
-            },
             {
                 "label": "Blog",
                 "url": "/blog",
@@ -18,11 +13,6 @@
             {
                 "label": "Acerca de",
                 "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
                 "style": "link"
             },
             {
