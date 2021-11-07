@@ -10,7 +10,7 @@ sections:
       New York se encuentran trabajando nuestros compañeros migrantes mexicanos
       o latinoamericanos.
   - type: team_section
-    title: Our Team
+    title: Nuestro equipo
     team:
       - content/data/team/miles-tone.yaml
       - content/data/team/dianne-ameter.yaml
