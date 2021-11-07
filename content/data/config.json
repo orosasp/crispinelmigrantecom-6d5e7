@@ -29,6 +29,11 @@
                 "label": "Acerca de",
                 "url": "/about",
                 "style": "link"
+            },
+            {
+                "label": "Acerca de",
+                "url": "/about",
+                "style": "link"
             }
         ],
         "has_social": true,
