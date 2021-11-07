@@ -8,7 +8,7 @@ sections:
     show_recent: false
     author: content/data/team/esteban-estevez.yaml
 seo:
-  title: Posts by Miles Tone
+  title: Posts by Esteban Estevez
   description: This is the author archive page
   extra:
     - name: 'og:type'
