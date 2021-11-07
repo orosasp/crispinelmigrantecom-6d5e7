@@ -1,5 +1,5 @@
 ---
-title: Miles Tone
+title: Esteban Tone
 sections:
   - type: hero_section
     title: All Posts By Miles Tone
