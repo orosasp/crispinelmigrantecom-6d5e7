@@ -5,7 +5,7 @@ author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/tutorials.yaml
 tags:
-  - Stackbit
+  - crispinelmigrante
   - Netlify
 image: images/5.png
 image_alt: Post 5 placeholder image
