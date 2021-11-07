@@ -49,12 +49,6 @@
                 "url": "https://www.youtube.com/",
                 "style": "link",
                 "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "new_window": true
             }
         ],
         "content": "&copy; Crispin el migrante. Todos los derecho reservados. Este sitio fué creado por <a href=\"https://www.oscarrp.com/\" target=\"_blank\" rel=\"noopener\">@orosasp</a>."
