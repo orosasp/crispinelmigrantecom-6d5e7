@@ -11,6 +11,11 @@
                 "style": "primary"
             },
             {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "primary"
+            },
+            {
                 "label": "Acerca de",
                 "url": "/about",
                 "style": "link"
