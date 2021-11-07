@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Crispín el migrante
     subtitle: >-
-      Este sitio web se creo con el objetico de dar a conocer en que rincones de
-      New York se encuentran trabajando nuestros compañeros migrantes mexicanos
-      o latinoamericanos.
+      Este sitio web se creo con el objetivo de dar a conocer que hacen, en que
+      rincones de New York y en que se encuentran trabajando nuestros paisanos
+      migrantes mexicanos o latinoamericanos.
     actions:
       - label: Contáctanos
         url: /contact
