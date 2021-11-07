@@ -13,7 +13,7 @@
             {
                 "label": "Acerca de",
                 "url": "/about",
-                "style": "primary"
+                "style": "link"
             }
         ]
     },
