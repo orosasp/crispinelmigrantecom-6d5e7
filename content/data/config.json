@@ -14,11 +14,6 @@
                 "label": "Acerca de",
                 "url": "/about",
                 "style": "link"
-            },
-            {
-                "label": "Contáctactanos",
-                "url": "/contact",
-                "style": "primary"
             }
         ]
     },
