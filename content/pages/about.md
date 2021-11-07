@@ -14,7 +14,6 @@ sections:
     team:
       - content/data/team/esteban-estevez.yaml
       - content/data/team/dianne-ameter.yaml
-      - content/data/team/eleanor-carr.yaml
       - content/data/team/hanson-deck.yaml
   - type: cta_section
     title: Join the Team
