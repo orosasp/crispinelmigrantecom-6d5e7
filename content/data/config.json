@@ -31,6 +31,11 @@
                 "style": "link"
             },
             {
+                "label": "Inicio",
+                "url": "/",
+                "style": "link"
+            },
+            {
                 "label": "Acerca de",
                 "url": "/about",
                 "style": "link"
