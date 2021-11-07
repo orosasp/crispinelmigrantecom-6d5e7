@@ -8,7 +8,7 @@ sections:
       New York se encuentran trabajando nuestros compañeros migrantes mexicanos
       o latinoamericanos.
     actions:
-      - label: Contactanos
+      - label: Contáctanos
         url: /contact
         style: secondary
     align: left
