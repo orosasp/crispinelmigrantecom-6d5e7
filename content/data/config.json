@@ -13,7 +13,7 @@
             {
                 "label": "Blog",
                 "url": "/blog",
-                "style": "primary"
+                "style": "link"
             },
             {
                 "label": "Acerca de",
