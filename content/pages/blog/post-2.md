@@ -10,15 +10,11 @@ tags:
   - crispinelmigranteennewyork
 image_alt: Post 3 placeholder image
 excerpt: >-
-  En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas
-  nos muestra como sale a trabajar todos los días desde que se levanta hasta que
-  llega a su hogar.
+  En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.
 seo:
   title: 'Crispin, un migrante en New York: el caso de Leonardo Rosas, de Chimalhuacán'
   description: >-
-    En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas
-    nos muestra como sale a trabajar todos los días desde que se levanta hasta
-    que llega a su hogar.
+    En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.
   extra:
     - name: 'og:type'
       value: article
@@ -30,9 +26,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        En este reportaje, Crispín un migrante en New York de nombre Leonardo
-        Rosas nos muestra como sale a trabajar todos los días desde que se
-        levanta hasta que llega a su hogar.
+        En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.
       keyName: property
     - name: 'og:image'
       value: images/3.png
@@ -46,9 +40,7 @@ seo:
         Chimalhuacán
     - name: 'twitter:description'
       value: >-
-        En este reportaje, Crispín un migrante en New York de nombre Leonardo
-        Rosas nos muestra como sale a trabajar todos los días desde que se
-        levanta hasta que llega a su hogar.
+        En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.
     - name: 'twitter:image'
       value: images/3.png
       relativeUrl: true

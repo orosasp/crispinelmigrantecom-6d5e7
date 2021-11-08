@@ -1,12 +1,10 @@
 ---
-title: Home
+title: Crispín el migrante
 sections:
   - type: hero_section
-    title: Crispín el migrante
+    title: Crispín, un migrante en New York
     subtitle: >-
-      Este sitio web se creo con el objetivo de dar a conocer que hacen, en que
-      rincones de New York y en que se encuentran trabajando nuestros paisanos
-      migrantes mexicanos o latinoamericanos.
+      Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando nuestros paisanos migrantes mexicanos o latinoamericanos.
     actions:
       - label: Contáctanos
         url: /about
@@ -23,34 +21,34 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: blog_feed_section
-    title: Qué hay de nuevo
+    title: Publicaciones recientes
     show_recent: true
     recent_count: 3
 seo:
-  title: Stackbit Starter Theme
-  description: The preview of the Starter theme
+  title: Crispín el migrante
+  description: Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando nuestros paisanos migrantes mexicanos o latinoamericanos.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Starter Theme
+      value: Crispín el migrante
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando nuestros paisanos migrantes mexicanos o latinoamericanos.
       keyName: property
     - name: 'og:image'
-      value: images/starter-preview.png
+      value: images/logo.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Starter Theme
+      value: Crispín el migrante
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando nuestros paisanos migrantes mexicanos o latinoamericanos.
     - name: 'twitter:image'
-      value: images/starter-preview.png
+      value: images/logo.jpeg
       relativeUrl: true
 layout: advanced
 ---
