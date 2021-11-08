@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:title'
       value: 'Crispin, un migrante en New York: el caso de Leonardo Rosas, de Chimalhuacán'
     - name: 'twitter:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: 'En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.'
     - name: 'twitter:image'
       value: images/3.png
       relativeUrl: true
