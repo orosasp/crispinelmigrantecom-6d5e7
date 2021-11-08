@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:title'
       value: Acerca de Crispin el migrante
     - name: 'twitter:description'
-      value: Estoy aqui pero mi mente esta alla
+      value: Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando  nuestros paisanos migrantes mexicanos o latinoamericanos.
     - name: 'twitter:image'
       value: images/logo.jpeg
       relativeUrl: true
