@@ -43,6 +43,6 @@ seo:
 layout: post
 ---
 
-En este reportaje, Crispín un migrante muestra el caso de Leonardo Rosas.
+En este reportaje, Crispín un migrante en New York muestra el caso de Leonardo Rosas.
 
 <iframe width="1280" height="721" src="https://www.youtube.com/embed/e2rGJZOb94s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
