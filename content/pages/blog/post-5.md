@@ -13,7 +13,7 @@ image_alt: Crispin el migrante visita a la Guardia Comunitaria del Bronx
 excerpt: >-
   Crispin el migrante visita a la Guardia Comunitaria del Bronx.
 seo:
-  title: Amet Nulla Facilisi Morbi Tempus
+  title: Crispin el migrante visita a la Guardia Comunitaria del Bronx
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
   extra:
     - name: 'og:type'
