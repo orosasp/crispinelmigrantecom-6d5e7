@@ -1,5 +1,5 @@
 ---
-title: Inicio
+title: Crispín el migrante
 sections:
   - type: hero_section
     title: Crispín, un migrante en New York
