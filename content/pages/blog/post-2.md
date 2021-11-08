@@ -11,9 +11,7 @@ tags:
 image: images/3.png
 image_alt: Post 3 placeholder image
 excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+  En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.
 seo:
   title: 'Crispin, un migrante en New York: el caso de Leonardo Rosas, de Chimalhuacán'
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
