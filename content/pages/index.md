@@ -2,7 +2,7 @@
 title: Inicio
 sections:
   - type: hero_section
-    title: Crispín, un migrante en New York
+    title: Crispín el migrante
     subtitle: >-
       Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando nuestros paisanos migrantes mexicanos o latinoamericanos.
     actions:
