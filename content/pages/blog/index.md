@@ -8,7 +8,7 @@ sections:
     show_recent: false
 seo:
   title: Blog
-  description: This is the blog page
+  description: En esta sección encontraras las publicaciones de Crispín el migrante
   extra:
     - name: 'og:type'
       value: website
@@ -17,10 +17,10 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: En esta sección encontraras las publicaciones de Crispín el migrante
       keyName: property
     - name: 'og:image'
-      value: images/1.png
+      value: images/logo.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -28,9 +28,9 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: En esta sección encontraras las publicaciones de Crispín el migrante
     - name: 'twitter:image'
-      value: images/1.png
+      value: images/logo.jpeg
       relativeUrl: true
 layout: advanced
 ---

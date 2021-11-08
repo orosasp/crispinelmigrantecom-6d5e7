@@ -6,6 +6,11 @@
         "has_nav": true,
         "nav_links": [
             {
+                "label": "Inicio",
+                "url": "/",
+                "style": "link"
+            },
+            {
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link"
@@ -13,11 +18,6 @@
             {
                 "label": "Acerca de",
                 "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Contactactanos",
-                "url": "/contact",
                 "style": "primary"
             }
         ]
@@ -26,38 +26,37 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Contact Us",
-                "url": "/contact",
+                "label": "Inicio",
+                "url": "/",
                 "style": "link"
             },
             {
-                "label": "Privacy and Terms",
-                "url": "/terms",
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link"
+            },
+            {
+                "label": "Acerca de",
+                "url": "/about",
                 "style": "link"
             }
         ],
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/Crispin-Un-Emigrante-104050991600005/",
                 "style": "link",
                 "new_window": true
             },
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "link",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "label": "Youtube",
+                "url": "https://www.youtube.com/",
                 "style": "link",
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Crispin el migrante. Todos los derecho reservados. Este sitio fué creado por <a href=\"https://www.oscarrp.com/\" target=\"_blank\" rel=\"noopener\">@orosasp</a>"
     },
-    "domain": "https://crispinelmigrantecom-6d5e7.netlify.app"
+    "domain": "https://www.crispinelmigrante.com/"
 }

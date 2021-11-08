@@ -1,14 +1,14 @@
 ---
-title: Miles Tone
+title: Esteban Estevez Rosas
 sections:
   - type: hero_section
-    title: All Posts By Miles Tone
+    title: All Posts By Esteban Estevez
     align: center
   - type: blog_feed_section
     show_recent: false
-    author: content/data/team/miles-tone.yaml
+    author: content/data/team/esteban-estevez.yaml
 seo:
-  title: Posts by Miles Tone
+  title: Posts by Esteban Estevez
   description: This is the author archive page
   extra:
     - name: 'og:type'
