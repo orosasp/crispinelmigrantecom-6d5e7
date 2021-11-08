@@ -1,5 +1,5 @@
 ---
-title: Cur Ipse Pythagoras Et Aegyptum Lustravit
+title: 'Crispin, un migrante en New York: el caso de Leonardo Rosas, de Chimalhuacán'
 date: '2021-10-26'
 author: content/data/team/gordon-norman.yaml
 categories:
