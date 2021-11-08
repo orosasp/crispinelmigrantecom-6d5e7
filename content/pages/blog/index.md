@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: En esta sección encontraras las publicaciones de Crispín el migrante
     - name: 'twitter:image'
       value: images/1.png
       relativeUrl: true
