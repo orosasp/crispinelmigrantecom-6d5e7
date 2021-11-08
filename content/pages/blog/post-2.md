@@ -6,8 +6,8 @@ categories:
   - content/data/categories/general.yaml
   - content/data/categories/news.yaml
 tags:
-  - Stackbit
-  - JAMstack
+- crispinelmigrante
+  - crispinelmigranteennewyork
 image: images/3.png
 image_alt: Post 3 placeholder image
 excerpt: >-
