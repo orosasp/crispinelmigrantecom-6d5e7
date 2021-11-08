@@ -14,7 +14,7 @@ excerpt: >-
   Crispin el migrante visita a la Guardia Comunitaria del Bronx.
 seo:
   title: Crispin el migrante visita a la Guardia Comunitaria del Bronx
-  description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+  description: 'Crispin el migrante visita a la Guardia Comunitaria del Bronx'
   extra:
     - name: 'og:type'
       value: article
