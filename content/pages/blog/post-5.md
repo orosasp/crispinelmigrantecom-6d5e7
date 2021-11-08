@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:title'
       value: Amet Nulla Facilisi Morbi Tempus
     - name: 'twitter:description'
-      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+      value: 'Crispin el migrante visita a la Guardia Comunitaria del Bronx'
     - name: 'twitter:image'
       value: https://img.youtube.com/vi/5E5lIxePYAE/0.jpg
       relativeUrl: true
