@@ -32,7 +32,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Starter Theme
+      value: Crispín, un migrante en New York
       keyName: property
     - name: 'og:description'
       value: The preview of the Starter theme
