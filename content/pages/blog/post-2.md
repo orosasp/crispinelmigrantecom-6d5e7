@@ -15,7 +15,7 @@ excerpt: >-
   dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
   inquit, me dixisse.
 seo:
-  title: Crispin, un migrante en New York: el caso de Leonardo Rosas, de Chimalhuacán
+  title: 'Crispin, un migrante en New York: el caso de Leonardo Rosas, de Chimalhuacán
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
   extra:
     - name: 'og:type'
