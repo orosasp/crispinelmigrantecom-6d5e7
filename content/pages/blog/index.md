@@ -8,7 +8,7 @@ sections:
     show_recent: false
 seo:
   title: Blog
-  description: En esta sección encontraras 
+  description: En esta sección encontraras las publicaciones
   extra:
     - name: 'og:type'
       value: website
