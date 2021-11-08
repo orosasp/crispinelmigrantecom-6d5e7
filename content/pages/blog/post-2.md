@@ -8,7 +8,6 @@ categories:
 tags:
   - crispinelmigrante
   - crispinelmigranteennewyork
-image: /images/Captura de pantalla 2021-11-07 195558.jpg
 image_alt: Post 3 placeholder image
 excerpt: >-
   En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas
