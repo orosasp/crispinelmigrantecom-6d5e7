@@ -8,7 +8,7 @@ sections:
     show_recent: false
 seo:
   title: Blog
-  description: En esta sección encontraras las publicaciones
+  description: En esta sección encontraras las publicaciones de Crispín el migrante
   extra:
     - name: 'og:type'
       value: website
