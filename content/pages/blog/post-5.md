@@ -8,13 +8,12 @@ categories:
 tags:
   - crispinelmigrante
   - crispinelmigranteennewyork
-image: https://img.youtube.com/vi/5E5lIxePYAE/0.jpg
+image: /images/crispin_visita_guardia_comunitaria_bronx.jpg
 image_alt: Crispin el migrante visita a la Guardia Comunitaria del Bronx
-excerpt: >-
-  Crispin el migrante visita a la Guardia Comunitaria del Bronx.
+excerpt: Crispin el migrante visita a la Guardia Comunitaria del Bronx.
 seo:
   title: Crispin el migrante visita a la Guardia Comunitaria del Bronx
-  description: 'Crispin el migrante visita a la Guardia Comunitaria del Bronx'
+  description: Crispin el migrante visita a la Guardia Comunitaria del Bronx
   extra:
     - name: 'og:type'
       value: article
@@ -23,10 +22,10 @@ seo:
       value: Crispin el migrante visita a la Guardia Comunitaria del Bronx
       keyName: property
     - name: 'og:description'
-      value: 'Crispin el migrante visita a la Guardia Comunitaria del Bronx'
+      value: Crispin el migrante visita a la Guardia Comunitaria del Bronx
       keyName: property
     - name: 'og:image'
-      value: https://img.youtube.com/vi/5E5lIxePYAE/0.jpg
+      value: 'https://img.youtube.com/vi/5E5lIxePYAE/0.jpg'
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -34,9 +33,9 @@ seo:
     - name: 'twitter:title'
       value: Crispin el migrante visita a la Guardia Comunitaria del Bronx
     - name: 'twitter:description'
-      value: 'Crispin el migrante visita a la Guardia Comunitaria del Bronx'
+      value: Crispin el migrante visita a la Guardia Comunitaria del Bronx
     - name: 'twitter:image'
-      value: https://img.youtube.com/vi/5E5lIxePYAE/0.jpg
+      value: 'https://img.youtube.com/vi/5E5lIxePYAE/0.jpg'
       relativeUrl: true
 layout: post
 ---
