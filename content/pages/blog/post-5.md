@@ -26,7 +26,7 @@ seo:
       value: 'Crispin el migrante visita a la Guardia Comunitaria del Bronx'
       keyName: property
     - name: 'og:image'
-      value: images/5.png
+      value: https://img.youtube.com/vi/5E5lIxePYAE/0.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
