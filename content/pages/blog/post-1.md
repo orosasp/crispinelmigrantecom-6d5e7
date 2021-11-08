@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:title'
       value: Crispin el migrante visita a la Guardia Comunitaria del Bronx
     - name: 'twitter:description'
-      value: Crispin el migrante visita a la Guardia Comunitaria del Bronx
+      value: En este primer reportaje, Crispín el Inmigrante visita a un grupo de migrantes, mayoritariamente mexicanos e indígenas, que se organizaron para formar una Ronda Comunitaria.
     - name: 'twitter:image'
       value: '/images/crispin_visita_guardia_comunitaria_bronx.jpg'
       relativeUrl: true
