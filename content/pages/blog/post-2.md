@@ -42,9 +42,7 @@ seo:
         Chimalhuacán
     - name: 'twitter:description'
       value: >-
-        En este reportaje, Crispín un migrante en New York de nombre Leonardo
-        Rosas nos muestra como sale a trabajar todos los días desde que se
-        levanta hasta que llega a su hogar.
+        En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.
     - name: 'twitter:image'
       value: images/3.png
       relativeUrl: true
