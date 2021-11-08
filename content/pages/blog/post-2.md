@@ -23,7 +23,7 @@ seo:
       value: 'Crispin, un migrante en New York: el caso de Leonardo Rosas, de Chimalhuacán'
       keyName: property
     - name: 'og:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: 'En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.'
       keyName: property
     - name: 'og:image'
       value: images/3.png
