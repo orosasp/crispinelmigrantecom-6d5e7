@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Crispín, un migrante en New York
+      value: Crispín el migrante
     - name: 'twitter:description'
       value: Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando nuestros paisanos migrantes mexicanos o latinoamericanos.
     - name: 'twitter:image'
