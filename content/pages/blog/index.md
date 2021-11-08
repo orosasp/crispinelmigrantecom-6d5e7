@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: En esta sección encontraras las publicaciones de Crispín el migrante
     - name: 'twitter:image'
-      value: images/1.png
+      value: images/logo.jpeg
       relativeUrl: true
 layout: advanced
 ---
