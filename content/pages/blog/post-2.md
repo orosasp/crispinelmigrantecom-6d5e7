@@ -43,7 +43,7 @@ seo:
 layout: post
 ---
 
- En este primer reportaje, Crispín el Inmigrante visita a un grupo de
+En este primer reportaje, Crispín el Inmigrante visita a un grupo de
   migrantes, mayoritariamente mexicanos e indígenas, que se organizaron para formar una Ronda Comunitaria.
 
 <iframe width="1280" height="721" src="https://www.youtube.com/embed/e2rGJZOb94s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
