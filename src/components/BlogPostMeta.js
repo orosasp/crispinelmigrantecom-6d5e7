@@ -14,7 +14,7 @@ export default class BlogPostMeta extends React.Component {
         if (author.link) {
             return <span> Por <Link href={withPrefix(author.link)}>{authorName}</Link></span>;
         } else {
-            return <span> by {authorName}</span>;
+            return <span> Por {authorName}</span>;
         }
     }
 
