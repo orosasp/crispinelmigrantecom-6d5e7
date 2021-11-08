@@ -8,22 +8,32 @@ categories:
 tags:
   - crispinelmigrante
   - crispinelmigranteennewyork
-image: images/3.png
+image: /images/Captura de pantalla 2021-11-07 195558.jpg
 image_alt: Post 3 placeholder image
 excerpt: >-
-  En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.
+  En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas
+  nos muestra como sale a trabajar todos los días desde que se levanta hasta que
+  llega a su hogar.
 seo:
   title: 'Crispin, un migrante en New York: el caso de Leonardo Rosas, de Chimalhuacán'
-  description: 'En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.'
+  description: >-
+    En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas
+    nos muestra como sale a trabajar todos los días desde que se levanta hasta
+    que llega a su hogar.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Crispin, un migrante en New York: el caso de Leonardo Rosas, de Chimalhuacán'
+      value: >-
+        Crispin, un migrante en New York: el caso de Leonardo Rosas, de
+        Chimalhuacán
       keyName: property
     - name: 'og:description'
-      value: 'En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.'
+      value: >-
+        En este reportaje, Crispín un migrante en New York de nombre Leonardo
+        Rosas nos muestra como sale a trabajar todos los días desde que se
+        levanta hasta que llega a su hogar.
       keyName: property
     - name: 'og:image'
       value: images/3.png
@@ -32,9 +42,14 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Crispin, un migrante en New York: el caso de Leonardo Rosas, de Chimalhuacán'
+      value: >-
+        Crispin, un migrante en New York: el caso de Leonardo Rosas, de
+        Chimalhuacán
     - name: 'twitter:description'
-      value: 'En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.'
+      value: >-
+        En este reportaje, Crispín un migrante en New York de nombre Leonardo
+        Rosas nos muestra como sale a trabajar todos los días desde que se
+        levanta hasta que llega a su hogar.
     - name: 'twitter:image'
       value: images/3.png
       relativeUrl: true
