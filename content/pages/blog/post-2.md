@@ -43,6 +43,6 @@ seo:
 layout: post
 ---
 
-En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar lo que hace todos los días desde que se levanta hasta que llega a su hogar.
+En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.
 
 <iframe width="1280" height="721" src="https://www.youtube.com/embed/e2rGJZOb94s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
