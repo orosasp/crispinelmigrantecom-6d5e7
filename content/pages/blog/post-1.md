@@ -1,6 +1,6 @@
 ---
 title: Crispín el Inmigrante visita a la Guardia Comunitaria del Bronx
-date: '2021-10-12'
+date: '2021-09-12'
 author: content/data/team/esteban-estevez.yaml
 categories:
   - content/data/categories/general.yaml
