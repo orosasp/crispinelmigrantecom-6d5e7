@@ -6,7 +6,7 @@ sections:
     align: center
   - type: content_section
     content: >
-      Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando nuestros paisanos
+      Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando  nuestros paisanos
       migrantes mexicanos o latinoamericanos.
   - type: team_section
     title: Nuestro equipo
