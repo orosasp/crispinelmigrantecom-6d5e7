@@ -1,5 +1,5 @@
 ---
-title: ¿Quiénes somos?
+title: Acerca de Crispin el migrante
 sections:
   - type: hero_section
     title: ¿Quiénes somos?
