@@ -21,7 +21,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: blog_feed_section
-    title: Publicaciones reciente
+    title: Publicaciones recientes
     show_recent: true
     recent_count: 3
 seo:
