@@ -25,7 +25,7 @@ sections:
     show_recent: true
     recent_count: 3
 seo:
-  title: Crispín, un migrante en New York
+  title: Crispín el migrante
   description: Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando nuestros paisanos migrantes mexicanos o latinoamericanos.
   extra:
     - name: 'og:type'
