@@ -15,7 +15,7 @@ sections:
       - content/data/team/hanson-deck.yaml
 seo:
   title: Acerca de Crispin el migrante
-  description: Estoy aqui pero mi mente esta alla
+  description: Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando  nuestros paisanos migrantes mexicanos o latinoamericanos.
   extra:
     - name: 'og:type'
       value: website
