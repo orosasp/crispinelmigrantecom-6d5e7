@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Inicio
 sections:
   - type: hero_section
     title: Crispín el migrante
