@@ -6,7 +6,7 @@ categories:
   - content/data/categories/general.yaml
   - content/data/categories/news.yaml
 tags:
-- crispinelmigrante
+  - crispinelmigrante
   - crispinelmigranteennewyork
 image: images/3.png
 image_alt: Post 3 placeholder image
