@@ -17,7 +17,7 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: En esta sección encontraras las publicaciones de Crispín el migrante
       keyName: property
     - name: 'og:image'
       value: images/1.png
