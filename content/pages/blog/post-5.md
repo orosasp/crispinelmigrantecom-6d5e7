@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Amet Nulla Facilisi Morbi Tempus
+      value: Crispin el migrante visita a la Guardia Comunitaria del Bronx
       keyName: property
     - name: 'og:description'
       value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
