@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Amet Nulla Facilisi Morbi Tempus
+      value: Crispin el migrante visita a la Guardia Comunitaria del Bronx
     - name: 'twitter:description'
       value: 'Crispin el migrante visita a la Guardia Comunitaria del Bronx'
     - name: 'twitter:image'
