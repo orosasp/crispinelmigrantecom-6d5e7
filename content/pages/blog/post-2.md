@@ -43,6 +43,3 @@ seo:
 layout: post
 ---
 
-Crispin, un migrante en New York: el caso de Leonardo Rosas, de Chimalhuacán
-— Esteban Estevez / Red de Pueblos Trasnacionales, desde New York
-Conducen: Alberto Nájar y Ernesto Ledesma
