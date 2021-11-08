@@ -9,7 +9,7 @@ tags:
   - crispinelmigrante
   - crispinelmigranteennewyork
 image: https://img.youtube.com/vi/5E5lIxePYAE/0.jpg
-image_alt: Crispín el Inmigrante visita a la Guardia Comunitaria del Bronx
+image_alt: Crispin el Inmigrante visita a la Guardia Comunitaria del Bronx
 excerpt: >-
   Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
   philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
