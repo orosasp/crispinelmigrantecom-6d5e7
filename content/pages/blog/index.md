@@ -20,7 +20,7 @@ seo:
       value: En esta sección encontraras las publicaciones de Crispín el migrante
       keyName: property
     - name: 'og:image'
-      value: images/1.png
+      value: images/logo.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
