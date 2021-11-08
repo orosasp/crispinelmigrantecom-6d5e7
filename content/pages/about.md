@@ -24,7 +24,7 @@ seo:
       value: Acerca de Crispin el migrante
       keyName: property
     - name: 'og:description'
-      value: Acerca de Crispin el migrante
+      value: Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando  nuestros paisanos migrantes mexicanos o latinoamericanos.
       keyName: property
     - name: 'og:image'
       value: images/logo.jpeg
