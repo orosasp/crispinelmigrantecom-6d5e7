@@ -1,6 +1,6 @@
 ---
 title: Cur Ipse Pythagoras Et Aegyptum Lustravit
-date: '2021-05-28'
+date: '2021-10-28'
 author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/general.yaml
