@@ -12,9 +12,9 @@ export default class BlogPostMeta extends React.Component {
         }
         const authorName = _.trim(`${author.first_name} ${author.last_name}`);
         if (author.link) {
-            return <span> by <Link href={withPrefix(author.link)}>{authorName}</Link></span>;
+            return <span> Por <Link href={withPrefix(author.link)}>{authorName}</Link></span>;
         } else {
-            return <span> by {authorName}</span>;
+            return <span> Por {authorName}</span>;
         }
     }
 
