@@ -8,7 +8,7 @@ sections:
     show_recent: false
 seo:
   title: Blog
-  description: This is the blog page
+  description: En esta sección encontraras 
   extra:
     - name: 'og:type'
       value: website
