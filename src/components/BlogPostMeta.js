@@ -29,7 +29,7 @@ export default class BlogPostMeta extends React.Component {
 
         return (
             <div className={containerClass}>
-                <span>On <time dateTime={dateTimeAttr}>{formattedDate}</time></span>
+                <span><time dateTime={dateTimeAttr}>{formattedDate}</time></span>
                 {authorRef && this.renderAuthor(authorRef, data)}
             </div>
         );
