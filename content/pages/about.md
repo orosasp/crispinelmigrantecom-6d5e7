@@ -24,7 +24,7 @@ seo:
       value: Acerca de Crispin el migrante
       keyName: property
     - name: 'og:description'
-      value: Estoy aqui pero mi mente esta alla
+      value: Acerca de Crispin el migrante
       keyName: property
     - name: 'og:image'
       value: images/logo.jpeg
