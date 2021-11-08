@@ -11,9 +11,11 @@ tags:
 image: https://img.youtube.com/vi/5E5lIxePYAE/0.jpg
 image_alt: Crispin el migrante visita a la Guardia Comunitaria del Bronx
 excerpt: >-
-  Crispin el migrante visita a la Guardia Comunitaria del Bronx.
+  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
+  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
+  affecit, quanto.
 seo:
-  title: Crispin el migrante visita a la Guardia Comunitaria del Bronx
+  title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
   extra:
     - name: 'og:type'
