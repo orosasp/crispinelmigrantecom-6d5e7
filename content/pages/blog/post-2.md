@@ -28,9 +28,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        En este reportaje, Crispín un migrante en New York de nombre Leonardo
-        Rosas nos muestra como sale a trabajar todos los días desde que se
-        levanta hasta que llega a su hogar.
+        En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.
       keyName: property
     - name: 'og:image'
       value: images/3.png
