@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:description'
       value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
     - name: 'twitter:image'
-      value: images/5.png
+      value: https://img.youtube.com/vi/5E5lIxePYAE/0.jpg
       relativeUrl: true
 layout: post
 ---
