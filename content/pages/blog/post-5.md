@@ -13,7 +13,7 @@ image_alt: Crispin el migrante visita a la Guardia Comunitaria del Bronx
 excerpt: >-
   En este primer reportaje, Crispín el Inmigrante visita a un grupo de
   migrantes, mayoritariamente mexicanos e indígenas, que se organizaron para
-  formar una Ronda Comunitaria
+  formar una Ronda Comunitaria.
 seo:
   title: Crispin el migrante visita a la Guardia Comunitaria del Bronx
   description: Crispin el migrante visita a la Guardia Comunitaria del Bronx
