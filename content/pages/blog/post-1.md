@@ -42,6 +42,6 @@ seo:
 layout: post
 ---
 
-En este primer reportaje, Crispín el Inmigrante visita a un grupo de migrantes, mayoritariamente mexicanos e indígenas, que se organizaron para formar una Ronda Comunitaria para defenderse del creciente número de robos contra repartidores de comida y paisanos que circulan por las noches en bicicleta.
+En este primer reportaje, Crispín el migrante visita a un grupo de migrantes, mayoritariamente mexicanos e indígenas, que se organizaron para formar una Ronda Comunitaria para defenderse del creciente número de robos contra repartidores de comida y paisanos que circulan por las noches en bicicleta.
 
 <iframe width="1280" height="712" src="https://www.youtube.com/embed/5E5lIxePYAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
