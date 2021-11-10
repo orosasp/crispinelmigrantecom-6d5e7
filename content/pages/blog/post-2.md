@@ -42,7 +42,7 @@ seo:
       value: >-
         En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.
     - name: 'twitter:image'
-      value: images/3.png
+      value: images/crispin2.jpg
       relativeUrl: true
 layout: post
 image: /images/crispin2.jpg
