@@ -8,7 +8,7 @@ categories:
 tags:
   - crispinelmigrante
   - crispinelmigranteennewyork
-image_alt: Post 3 placeholder image
+image_alt: Crispín un migrante en New York
 excerpt: >-
   En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.
 seo:
@@ -29,7 +29,7 @@ seo:
         En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.
       keyName: property
     - name: 'og:image'
-      value: images/3.png
+      value: images/crispin2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -42,7 +42,7 @@ seo:
       value: >-
         En este reportaje, Crispín un migrante en New York de nombre Leonardo Rosas nos muestra como sale a trabajar todos los días desde que se levanta hasta que llega a su hogar.
     - name: 'twitter:image'
-      value: images/3.png
+      value: images/crispin2.jpg
       relativeUrl: true
 layout: post
 image: /images/crispin2.jpg
