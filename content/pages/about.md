@@ -16,7 +16,7 @@ sections:
       York desde principios de los 90's. Tapicero de oficio. Integrante de  la
       Red de Pueblos Trasnacionales e iniciador en la organización de la fiesta
       patronal en honor a Santiago Apóstol en New
-      York.![](https://preview--crispinelmigrantecom-6d5e7.stackbit.dev/images/crispin1.jpg)
+      York.!
 
 
       Facebook: www.facebook.com/estevez.upholstery/
