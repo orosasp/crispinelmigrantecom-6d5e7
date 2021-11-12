@@ -19,7 +19,7 @@ sections:
 
 
       Facebook:
-      %md <a href="www.facebook.com/estevez.upholstery/" target="_blank">google link</a>
+      %md <a href="www.facebook.com/estevez.upholstery/" target="_blank">www.facebook.com/estevez.upholstery/</a>
       [www.facebook.com/estevez.upholstery/](www.facebook.com/estevez.upholstery/)
 
 
