@@ -11,7 +11,7 @@ sections:
       migrantes mexicanos o latinoamericanos.
 
 
-      **"Crispín el Migrante" fue creado por Esteban Estévez Rosas**, Migrante
+      **"Crispín el Migrante" es creado por Esteban Estévez Rosas**, Migrante
       Mexicano, originario de Teopantlán Puebla., que actualmente vive en New
       York desde principios de los 90's. Tapicero de oficio. Integrante de  la
       Red de Pueblos Trasnacionales e iniciador en la organización de la fiesta
