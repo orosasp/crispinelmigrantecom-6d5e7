@@ -19,7 +19,7 @@ sections:
 
 
       Facebook:
-      %md <a href="www.facebook.com/estevez.upholstery/" target="_blank">estevez.upholstery</a>
+      %md<a href="www.facebook.com/estevez.upholstery/" target="_blank">estevez.upholstery</a>
 
 
       ![](/images/crispin1.jpg)
