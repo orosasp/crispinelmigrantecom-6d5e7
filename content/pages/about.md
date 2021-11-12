@@ -13,7 +13,6 @@ sections:
     title: Nuestro equipo
     team:
       - content/data/team/esteban-estevez.yaml
-      - content/data/team/hanson-deck.yaml
 seo:
   title: Acerca de Crispin el migrante
   description: >-
