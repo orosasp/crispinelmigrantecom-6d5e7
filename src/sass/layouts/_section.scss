@@ -72,7 +72,12 @@
   }
 }
 
-.section--team,
+.section--team.section--posts {
+  .cell {
+    margin-bottom: 1.5rem;
+    max-width: $width-sm;
+  }
+}
 .section--posts {
   .cell {
     margin-bottom: 1.5rem;
