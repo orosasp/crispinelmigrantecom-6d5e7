@@ -15,11 +15,11 @@ sections:
       Mexicano, originario de Teopantlán Puebla., que actualmente vive en New
       York desde principios de los 90's. Tapicero de oficio. Integrante de  la
       Red de Pueblos Trasnacionales e iniciador en la organización de la fiesta
-      patronal en honor a Santiago Apóstol en New
-      York.!
+      patronal en honor a Santiago Apóstol en New York.!
 
 
-      Facebook: www.facebook.com/estevez.upholstery/
+      Facebook:
+      [www.facebook.com/estevez.upholstery/](www.facebook.com/estevez.upholstery/)
 
 
       ![](/images/crispin1.jpg)
