@@ -22,10 +22,6 @@ sections:
 
 
       ![](/images/crispin1.jpg)
-  - type: team_section
-    title: Nuestro equipo
-    team:
-      - content/data/team/esteban-estevez.yaml
 seo:
   title: Acerca de Crispin el migrante
   description: >-
