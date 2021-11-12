@@ -9,6 +9,17 @@ sections:
       Este sitio web se creo con el objetivo de dar a conocer que hacen, en que
       rincones de New York y en que se encuentran trabajando  nuestros paisanos
       migrantes mexicanos o latinoamericanos.
+
+
+      Migrante Mexicano, originario de Teopantlán Puebla. Actualmente viviendo
+      en New York desde principios de los 90's. Tapicero de oficio. Integrante
+      de  la Red de Pueblos Trasnacionales e iniciador en la organización de la
+      fiesta patronal en honor a Santiago Apóstol en New York.
+
+
+
+
+      Facebook: www.facebook.com/estevez.upholstery/
   - type: team_section
     title: Nuestro equipo
     team:
