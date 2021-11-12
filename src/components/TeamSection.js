@@ -44,7 +44,7 @@ export default class TeamSection extends React.Component {
             <section className="section section--team">
                 {title && (
                     <div className="container container--md align-center">
-                        <h5 className="section__title">{title}</h5>
+                        <h2 className="section__title">{title}</h2>
                     </div>
                 )}
                 {!_.isEmpty(team) && (
