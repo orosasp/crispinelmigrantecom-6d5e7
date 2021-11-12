@@ -17,9 +17,10 @@ sections:
       fiesta patronal en honor a Santiago Apóstol en New York.
 
 
-
-
       Facebook: www.facebook.com/estevez.upholstery/
+
+
+      ![](/images/crispin1.jpg)
   - type: team_section
     title: Nuestro equipo
     team:
