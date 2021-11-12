@@ -49,7 +49,7 @@ export default class TeamSection extends React.Component {
                 )}
                 {!_.isEmpty(team) && (
                     <div className="container container--lg">
-                        <div width="">
+                        <div width="500px">
                             {_.map(team, (teamMemberRef, index) => this.renderTeamMember(teamMemberRef, index, data))}
                         </div>
                     </div>
