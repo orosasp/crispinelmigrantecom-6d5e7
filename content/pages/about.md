@@ -21,7 +21,7 @@ sections:
       Facebook: www.facebook.com/estevez.upholstery/
 
 
-                  ![](/images/crispin1.jpg)
+    ![](/images/crispin1.jpg)
 seo:
   title: Acerca de Crispin el migrante
   description: >-
