@@ -18,8 +18,7 @@ sections:
       patronal en honor a Santiago Apóstol en New York.!
 
 
-      Facebook:
-      [www.facebook.com/estevez.upholstery/](www.facebook.com/estevez.upholstery/)
+      Facebook: [estevez.upholstery](www.facebook.com/estevez.upholstery/)
 
 
       ![](/images/crispin1.jpg)
