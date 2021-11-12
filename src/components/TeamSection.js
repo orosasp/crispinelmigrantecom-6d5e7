@@ -48,7 +48,7 @@ export default class TeamSection extends React.Component {
                     </div>
                 )}
                 {!_.isEmpty(team) && (
-                    <div className="container container--lg">
+                    <div className="container container--lg align-center">
                         <div className="flex flex--col-3">
                             {_.map(team, (teamMemberRef, index) => this.renderTeamMember(teamMemberRef, index, data))}
                         </div>
