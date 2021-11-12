@@ -46,9 +46,6 @@ export default class TeamSection extends React.Component {
                     <div className="container container--md align-center">
                         <h2 className="section__title">{title}</h2>
                     </div>
-                    <div className="container container--md align-center">
-                        <h2 className="section__title">{title}</h2>
-                    </div>
                 )}
                 {!_.isEmpty(team) && (
                     <div className="container container--lg align-center">
