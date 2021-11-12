@@ -19,7 +19,7 @@ sections:
 
 
       Facebook:
-      www.facebook.com/estevez.upholstery/](www.facebook.com/estevez.upholstery/)
+      www.facebook.com/estevez.upholstery/
 
 
       ![](/images/crispin1.jpg)
