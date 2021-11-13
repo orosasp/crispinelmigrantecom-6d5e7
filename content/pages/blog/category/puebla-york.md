@@ -2,13 +2,13 @@
 title: PueblaYork
 sections:
   - type: hero_section
-    title: 'Todas las publicaciones de la categoria: Puebla York'
+    title: 'Puebla York'
     align: center
   - type: blog_feed_section
     show_recent: false
     category: content/data/categories/puebla-york.yaml
 seo:
-  title: Posts in Puebla York
+  title: Puebla York
   description: This is the category archive page
   extra:
     - name: 'og:type'
