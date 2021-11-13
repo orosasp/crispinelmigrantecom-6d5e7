@@ -8,7 +8,7 @@ sections:
     show_recent: false
     category: content/data/categories/puebla-york.yaml
 seo:
-  title: Puebla York
+  title: 'Categoria: Puebla York'
   description: This is the category archive page
   extra:
     - name: 'og:type'
