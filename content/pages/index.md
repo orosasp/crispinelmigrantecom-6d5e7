@@ -2,11 +2,13 @@
 title: Crispín el migrante
 sections:
   - type: hero_section
-    title: Crispín, un migrante en New York
+    title: 'Crispín, un migrante en New York'
     subtitle: >-
-      Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando nuestros paisanos migrantes mexicanos o latinoamericanos.
+      Este sitio web se creo con el objetivo de dar a conocer que hacen, en que
+      rincones de New York y en que se encuentran trabajando nuestros paisanos
+      migrantes mexicanos o latinoamericanos.
     actions:
-      - label: Contáctanos
+      - label: Contáctan
         url: /about
         style: secondary
     align: left
@@ -26,7 +28,10 @@ sections:
     recent_count: 3
 seo:
   title: Crispín el migrante
-  description: Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando nuestros paisanos migrantes mexicanos o latinoamericanos.
+  description: >-
+    Este sitio web se creo con el objetivo de dar a conocer que hacen, en que
+    rincones de New York y en que se encuentran trabajando nuestros paisanos
+    migrantes mexicanos o latinoamericanos.
   extra:
     - name: 'og:type'
       value: website
@@ -35,7 +40,10 @@ seo:
       value: Crispín el migrante
       keyName: property
     - name: 'og:description'
-      value: Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando nuestros paisanos migrantes mexicanos o latinoamericanos.
+      value: >-
+        Este sitio web se creo con el objetivo de dar a conocer que hacen, en
+        que rincones de New York y en que se encuentran trabajando nuestros
+        paisanos migrantes mexicanos o latinoamericanos.
       keyName: property
     - name: 'og:image'
       value: images/logo.jpeg
@@ -46,7 +54,10 @@ seo:
     - name: 'twitter:title'
       value: Crispín el migrante
     - name: 'twitter:description'
-      value: Este sitio web se creo con el objetivo de dar a conocer que hacen, en que rincones de New York y en que se encuentran trabajando nuestros paisanos migrantes mexicanos o latinoamericanos.
+      value: >-
+        Este sitio web se creo con el objetivo de dar a conocer que hacen, en
+        que rincones de New York y en que se encuentran trabajando nuestros
+        paisanos migrantes mexicanos o latinoamericanos.
     - name: 'twitter:image'
       value: images/logo.jpeg
       relativeUrl: true
