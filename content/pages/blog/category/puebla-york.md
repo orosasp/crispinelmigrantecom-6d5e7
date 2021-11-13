@@ -1,5 +1,5 @@
 ---
-title: Puebla York
+title: PueblaYork
 sections:
   - type: hero_section
     title: All Posts In Puebla York
