@@ -5,6 +5,7 @@ author: content/data/team/gordon-norman.yaml
 categories:
     - content/data/categories/general.yaml
     - content/data/categories/news.yaml
+    - content/data/categories/puebla-york.yaml
 tags:
     - crispinelmigrante
     - crispinelmigranteennewyork
