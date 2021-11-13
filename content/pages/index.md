@@ -9,7 +9,7 @@ sections:
       migrantes mexicanos o latinoamericanos.
     actions:
       - label: Contáctanos
-        url: /about
+        url: /contacto
         style: secondary
     align: left
     image: /images/logo.jpeg
