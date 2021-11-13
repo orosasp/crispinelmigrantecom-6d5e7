@@ -2,7 +2,7 @@
 title: PueblaYork
 sections:
   - type: hero_section
-    title: All Posts In Puebla York
+    title: 'Todas las publicaciones de la categoria: Puebla York'
     align: center
   - type: blog_feed_section
     show_recent: false
