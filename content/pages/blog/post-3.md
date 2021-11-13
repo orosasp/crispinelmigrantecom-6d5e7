@@ -29,7 +29,7 @@ seo:
               Crispín el migrante visita a una gran mujer emprendedora la Sra. Angelica Hernández donde nos cuenta como pudo lograr su sueño de tener un pequeño negocio llamado "El Fogón Deli Grocery" en esta ciudad tan complicada y difícil, pero ella lo pudo lograr, Los invitamos a ver la el video.
           keyName: property
         - name: 'og:image'
-          value: https://img.youtube.com/vi/5rg2mdZ2Y9g/0.jpg
+          value: /images/crispin3.jpg
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
@@ -41,10 +41,10 @@ seo:
           value: >-
               Crispín el migrante visita a una gran mujer emprendedora la Sra. Angelica Hernández donde nos cuenta como pudo lograr su sueño de tener un pequeño negocio llamado "El Fogón Deli Grocery" en esta ciudad tan complicada y difícil, pero ella lo pudo lograr, Los invitamos a ver la el video.
         - name: 'twitter:image'
-          value: https://img.youtube.com/vi/5rg2mdZ2Y9g/0.jpg
+          value: /images/crispin3.jpg
           relativeUrl: true
 layout: post
-image: https://img.youtube.com/vi/5rg2mdZ2Y9g/0.jpg
+image: /images/crispin3.jpg
 ---
 
 Crispín el migrante visita a una gran mujer emprendedora la Sra. Angelica Hernández donde nos cuenta como pudo lograr su sueño de tener un pequeño negocio llamado "El Fogón Deli Grocery" en esta ciudad tan complicada y difícil, pero ella lo pudo lograr, Los invitamos a ver la el video.
