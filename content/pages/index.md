@@ -8,7 +8,7 @@ sections:
       rincones de New York y en que se encuentran trabajando nuestros paisanos
       migrantes mexicanos o latinoamericanos.
     actions:
-      - label: Contáctan
+      - label: Contáctanos
         url: /about
         style: secondary
     align: left
