@@ -8,7 +8,7 @@ sections:
     show_recent: false
     category: content/data/categories/puebla-york.yaml
 seo:
-  title: Puebla York
+  title: PueblaYork
   description: 'Publicaciones de la categoria: Puebla York'
   extra:
     - name: 'og:type'
