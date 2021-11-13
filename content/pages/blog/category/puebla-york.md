@@ -1,24 +1,24 @@
 ---
-title: PueblaYork
+title: Categoria Puebla York
 sections:
   - type: hero_section
-    title: 'Puebla York'
+    title: 'Categoria: Puebla York'
     align: center
   - type: blog_feed_section
     show_recent: false
     category: content/data/categories/puebla-york.yaml
 seo:
-  title: 'Categoria: Puebla York'
-  description: This is the category archive page
+  title: Puebla York
+  description: 'Publicaciones de la categoria: Puebla York'
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: All Posts In Puebla York
+      value: Puebla York
       keyName: property
     - name: 'og:description'
-      value: This is the category archive page
+      value: 'Publicaciones de la categoria: Puebla York'
       keyName: property
     - name: 'og:image'
       value: images/logo.jpeg
@@ -27,11 +27,11 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: All Posts In Puebla York
+      value: Puebla York
     - name: 'twitter:description'
-      value: This is the category archive page
+      value: 'Publicaciones de la categoria: Puebla York'
     - name: 'twitter:image'
-      value: images/1.png
+      value: images/logo.jpeg
       relativeUrl: true
 layout: advanced
 ---
