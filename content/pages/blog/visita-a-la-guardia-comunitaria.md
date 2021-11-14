@@ -3,8 +3,7 @@ title: Crispín el migrante visita a la Guardia Comunitaria del Bronx
 date: '2021-09-21'
 author: content/data/team/esteban-estevez.yaml
 categories:
-  - content/data/categories/general.yaml
-  - content/data/categories/news.yaml
+  - content/data/categories/crispin.yaml
 tags:
   - crispinelmigrante
   - crispinelmigranteennewyork

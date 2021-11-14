@@ -1,37 +1,37 @@
 ---
-title: General
+title: Crispín el migrante
 sections:
   - type: hero_section
-    title: All Posts In General
+    title: 'Categoria: Crispín el migrante'
     align: center
   - type: blog_feed_section
     show_recent: false
-    category: content/data/categories/general.yaml
+    category: content/data/categories/crispin.yaml
 seo:
-  title: Posts in General
-  description: This is the category archive page
+  title: Crispín el migrante
+  description: 'Publicaciones de la categoria: Crispín el migrante'
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in General
+      value: Crispín el migrante
       keyName: property
     - name: 'og:description'
-      value: This is the category archive page
+      value: 'Publicaciones de la categoria: Crispín el migrante'
       keyName: property
     - name: 'og:image'
-      value: images/1.png
+      value: images/logo.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts in General
+      value: Crispín el migrante
     - name: 'twitter:description'
-      value: This is the category archive page
+      value: 'Publicaciones de la categoria: Crispín el migrante'
     - name: 'twitter:image'
-      value: images/1.png
+      value: images/logo.jpeg
       relativeUrl: true
 layout: advanced
 ---

@@ -3,8 +3,7 @@ title: 'Crispin, un migrante en New York: el caso de Leonardo Rosas, de Chimalhu
 date: '2021-10-26'
 author: content/data/team/gordon-norman.yaml
 categories:
-  - content/data/categories/general.yaml
-  - content/data/categories/news.yaml
+  - content/data/categories/crispin.yaml
 tags:
   - crispinelmigrante
   - crispinelmigranteennewyork
