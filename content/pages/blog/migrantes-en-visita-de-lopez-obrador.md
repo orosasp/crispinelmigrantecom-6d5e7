@@ -3,7 +3,7 @@ title: 'AMLO Fest de migrantes mexicanos/as por la visita de López Obrador'
 date: '2021-11-09'
 author: content/data/team/gordon-norman.yaml
 categories:
-    - content/data/categories/puebla-york.yaml
+    - content/data/categories/crispin.yaml
 tags:
     - crispinelmigrante
     - crispinelmigranteennewyork
