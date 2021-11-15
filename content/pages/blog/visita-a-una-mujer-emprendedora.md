@@ -3,7 +3,7 @@ title: 'Crispin, un migrante en New York: visita a una gran mujer emprendedora q
 date: '2021-11-12'
 author: content/data/team/esteban-estevez.yaml
 categories:
-    - content/data/categoria/puebla-york.yaml
+    - content/data/categories/puebla-york.yaml
 tags:
     - crispinelmigrante
     - crispinelmigranteennewyork
