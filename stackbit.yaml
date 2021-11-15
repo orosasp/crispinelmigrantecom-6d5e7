@@ -217,8 +217,8 @@ models:
     folder: blog
     exclude:
       - index.md
-      - categoria/**
-      - autor/**
+      - category/**
+      - author/**
     fields:
       - type: string
         name: title
