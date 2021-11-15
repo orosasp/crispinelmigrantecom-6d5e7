@@ -1,7 +1,7 @@
 ---
 title: 'Crispin, un migrante en New York: visita a una gran mujer emprendedora que nos cuenta como pudo lograr su sueño de tener un pequeño negocio.'
 date: '2021-11-12'
-author: content/data/team/gordon-norman.yaml
+author: content/data/team/esteban-estevez.yaml
 categories:
     - content/data/categories/puebla-york.yaml
 tags:
