@@ -6,7 +6,7 @@ sections:
     align: center
   - type: blog_feed_section
     show_recent: false
-    category: content/data/categoria/crispin.yaml
+    category: content/data/categories/crispin.yaml
 seo:
   title: Crispín el migrante
   description: 'Publicaciones de la categoria: Crispín el migrante'

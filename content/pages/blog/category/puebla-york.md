@@ -6,7 +6,7 @@ sections:
     align: center
   - type: blog_feed_section
     show_recent: false
-    category: content/data/categoria/puebla-york.yaml
+    category: content/data/categories/puebla-york.yaml
 seo:
   title: PueblaYork
   description: 'Publicaciones de la categoria: Puebla York'
